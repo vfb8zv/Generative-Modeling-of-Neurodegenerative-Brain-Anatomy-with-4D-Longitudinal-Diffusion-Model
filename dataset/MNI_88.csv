@@ -1,0 +1,2 @@
+ptid,classes,age_list,sub_id,dates
+002_S_1261_0,1,[71.1        75.17671233 82.29452055 83.31369863],002_S_1261,"[datetime.datetime(2007, 2, 15, 0, 0), datetime.datetime(2011, 3, 14, 0, 0), datetime.datetime(2018, 4, 24, 0, 0), datetime.datetime(2019, 5, 1, 0, 0)]"
